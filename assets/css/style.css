@@ -92,6 +92,15 @@ header h1 a {
 }
 
 /* work */
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.first-project {
+  width: 100%;
+}
 
 /* contact me */
 
